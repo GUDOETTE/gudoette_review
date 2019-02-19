@@ -12,6 +12,7 @@ public class PowerSetData {
     public int[] myArray;
     public String algo;
 
+    
     /**
      * Constructs an array  and initializes it
      * with <code>null()</code>
